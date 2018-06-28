@@ -1,0 +1,2 @@
+1.sequelize db:create => bikin databse
+2.sequelize db:migrate
