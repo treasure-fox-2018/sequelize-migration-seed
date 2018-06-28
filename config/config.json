@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "handipriyono",
+    "password": null,
+    "database": "mvcSEQ",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
